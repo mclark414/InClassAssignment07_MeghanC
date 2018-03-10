@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animal Info</string>
+    <string name="hint">Enter Animal Name Here</string>
+    <string name="fur">Has Fur?</string>
+    <string name="leg">Enter Number of Legs</string>
+    <string name="fact">Enter Fun Fact</string>
+    <string name="submit">Submit</string>
+    <string name="add">Add Animal</string>
+</resources>
